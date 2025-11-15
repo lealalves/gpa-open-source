@@ -7,9 +7,9 @@
 | **Vinicius Gabriel** | Desenvolvedor Fullstack | gabrigom |
 | **Gustavo Kawamoto** | Desenvolvedor Fullstack | kawamotus |
 
-#### Descrição da Página **Informativo & Contato**
+# Descrição da Página **Informativo & Contato**
 
-* **Link da Página Hospedada (Deploy):** `[INSERIR O LINK DO DEPLOY AQUI]`
+### Link da Página Hospedada (Deploy): https://gpa-informativo-e-contato.vercel.app/
 
 ## Melhorias Visuais (UI/UX)
 
